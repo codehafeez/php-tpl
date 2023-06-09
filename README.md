@@ -14,7 +14,7 @@ http://localhost/php-tpl
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/php-multi-languages-using-file/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/php-tpl/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
